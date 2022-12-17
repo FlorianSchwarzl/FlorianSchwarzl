@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my POS system and Discord Bot
-- 🌱 I’m currently learning Python, JS, TS, C++, C#
+- 🌱 I’m currently learning Python, TS, C++ and C#
 - 👯 I’m looking to collaborate on my POS system
 - 🤔 I’m looking for help with my Discord Bot
 - 📫 How to reach me: Discord: plastik_flasche#0232
