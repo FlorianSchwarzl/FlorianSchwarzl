@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with my Discord Bot
 - 📫 How to reach me: Discord: plastik_flasche#0232
 - 😄 Pronouns: idc
-- ⚡ Maybe take a look at my ![NPM](https://www.npmjs.com/~plastik_flasche)
+- ⚡ Maybe take a look at my [NPM](https://www.npmjs.com/~plastik_flasche)
 
 ![help me](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![help me2](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/overview.svg#gh-dark-mode-only)
