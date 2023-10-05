@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on my POS system
 - 🤔 I’m looking for help with my Discord Bot
 - 📫 How to reach me: Discord: plastik_flasche#0232
-- 😄 Pronouns: idc
+- 😄 Pronouns: idc, call me whatever
 - ⚡ Maybe take a look at my [NPM](https://www.npmjs.com/~plastik_flasche)
 
 ![help me](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/languages.svg#gh-dark-mode-only)
