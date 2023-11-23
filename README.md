@@ -1,14 +1,15 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my POS system and Discord Bot
-- 🌱 I’m currently learning Python, C++ and C#
-- 👯 I’m looking to collaborate on my POS system
-- 🤔 I’m looking for help with my Discord Bot
-- 📫 How to reach me: Discord: plastik_flasche#0232
-- 😄 Pronouns: idc, call me whatever
-- ⚡ Maybe take a look at my [NPM](https://www.npmjs.com/~plastik_flasche)
 
-![help me](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![help me2](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+- 🔭 I’m currently working on a POS system, similar to Orderman, with a focus on reliability and user-friendliness.
+- 🌱 I’m learning Android app development to enhance my POS system's mobile integration.
+- 👯 Open to collaborations on my POS project, especially from those passionate about creating efficient and reliable systems.
+- 📫 Reach me on Discord: plastik_flasche
+- 😄 Pronouns: No preference, call me whatever.
+- 💻 Experienced in Linux, with skills in deploying systems like my POS server to ALARM and Debian environments.
+- 🏗️ I use Arch Linux (btw) for my primary development platform.
+
+![Languages Used](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/plastik-flasche/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <p align="center"> 
   Visitor count<br>
